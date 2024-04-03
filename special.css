@@ -1,0 +1,26 @@
+html {
+    overflow: hidden;
+}
+
+body {
+    height: 100vh;
+}
+
+#base_case {
+    height: 23%;
+}
+
+#not_real {
+    margin-left: 5%;
+    margin-top: 5%;
+    display: inline-block;
+}
+
+#universe {
+    display: inline-block;
+    margin-left: 10%;
+}
+
+table {
+    margin-left: 1%;
+}
