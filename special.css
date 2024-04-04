@@ -3,10 +3,10 @@ html {
 }
 
 body {
-    height: 100vh;
+    height: 100vh;  
 }
 
-#base_case {
+#container {
     height: 23%;
 }
 
@@ -21,6 +21,11 @@ body {
     margin-left: 10%;
 }
 
+#meaningless {
+    height: 20px;
+}
+
 table {
     margin-left: 1%;
 }
+
